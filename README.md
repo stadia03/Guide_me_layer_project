@@ -1,11 +1,15 @@
 # Layers Hackathon
 
+<img width="700" alt="Screenshot 2023-04-18 at 5 39 27 PM" src="https://user-images.githubusercontent.com/93596846/232812988-95e817a4-e96a-4361-b7b6-225faf24932a.png">
+
 An Ai Powered Chatbot That Is Intended To Help You With Your Software Interview Preparation And Doubts Related To Coding Problems. Guide Me Runs On The Gpt-3 Model Created By Openai, And Is Programmed Specifically For This Use Case.
 ## Why Use Guide Me?
 1. Guide Me Comes As A Chrome Extension, Meaning There'S No Need To Navigate Between Tabs, Making It Super Convinient And Accessible
 2. Guide Me Can Read And Understand The Question You Are Solving. You Don'T Have To Copy And Paste Anything
 3. Guide Me Comes With Well Engineered Pre-Defined Prompts That You Can Use With A Click Of A Button
 4. Guide Me Supports Most Of The Commonly Used Platforms For Interview Prep Coding Challenges.
+
+<img width="1440" alt="Screenshot 2023-04-18 at 5 43 55 PM" src="https://user-images.githubusercontent.com/93596846/232813099-3b6baeb1-614d-450c-b73c-4d1846f092f6.png">
 
 ## Features
 ##### Here Are Some Cool Things Guide Me Can Do:
