@@ -29,8 +29,9 @@ Or
 React_app_gpt_api = <openai_api_key>
 Since Keys Can'T Be Uploaded On Public Repos, You Will Have To Create Your Own Api Key From Openai.
 3.	Run The Following Commands
-> Npm Install
-> Npm Run Build
+> npm install
+npm run build
+
 4.	Go To [Chrome://Extensions](chrome://extensions/ "Chrome://Extensions")
 5.	Enable "Developer Mode"
 6.	In The Developer Options, Click On "Load Unpacked"
